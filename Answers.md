@@ -1,6 +1,16 @@
 SAYN						Examen Micro-service				M1
 Duncan	
 
+Partie 1 :
+
+1) Done
+
+2) Docker build -t count-server.js .
+Docker images
+Docker run -it count-server.js
+Docker ps
+
+3) https://github.com/SpaceNightt/Exam_micro_service_SAYN
 
 Partie 2 :
 Q1 : L'architecture Microservices est un style d'architecture logicielle où une application est développée comme un ensemble de petits services indépendants, chacun exécutant un processus unique et communiquant par des interfaces bien définies, souvent des API HTTP. Une application monolithique est contraignante car les processus sont liés et des petites modifications ont un impact sur des pans entiers de la base du code.
